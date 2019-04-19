@@ -7,14 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify"> your-text-here </div>
+<div style="text-align: justify"> 
 If we forget for a moment the philosophical implications of this question, I am a PhD student at [Carranza Lab](http://molevol.cmima.csic.es/carranza/index.html){:target="_blank"}, one of the research groups within the [Animal Biodiversity and Evolution Program](https://www.ibe.upf-csic.es/animal-biodiversity-and-evolution){:target="_blank"} in the Insitute of Evolutionary Biology of Barcelona. Does that define me? For better or worse, I guess pretty much, at least these days. But I am also a music, book, film and nature lover. I think that is a fair summary of my interests. I am a part-time scientist (if that is ever possible), but a full-time learner.
-
+</div>
 
 More about my research and scientific interests
 ======
+<div style="text-align: justify"> 
 In my PhD project I explore the effect of the arid areas in the origin and maintenance of reptile diversity in Arabia and North Africa. I study biogeographic patterns and diversification dynamics applying Phylogenetic Comparative Methods to get a large-scale perspective. I am also working with specific genera of geckos to discover and describe unknown and cryptic diversity in those remote regions. This contributes to create an accurate and stable taxonomy, necessary for most evolutionary studies. 
 Broadly speaking, I am interested in the evolution of taxa in space and time, and more specifically in how environmental conditions (geographic and climatic history) have affected diversification, as well as the interrelationships between ecological preferences, trait evolution and lineage diversification.
+</div>
 
 
 
