@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-If we forget the philosophical implications of this question, I am a PhD student at [Carranza Lab] (http://molevol.cmima.csic.es/carranza/index.html), one of the research groups within the [Animal Biodiversity and Evolution Program] (https://www.ibe.upf-csic.es/animal-biodiversity-and-evolution) in the Insitute of Evolutionary Biology of Barcelona.
+If we forget the philosophical implications of this question, I am a PhD student at [Carranza Lab](http://molevol.cmima.csic.es/carranza/index.html), one of the research groups within the [Animal Biodiversity and Evolution Program](https://www.ibe.upf-csic.es/animal-biodiversity-and-evolution) in the Insitute of Evolutionary Biology of Barcelona.
 
 
 A data-driven personal website
