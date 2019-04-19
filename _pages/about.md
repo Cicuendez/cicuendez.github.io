@@ -10,7 +10,7 @@ redirect_from:
 <div style="text-align: justify"> 
 If we forget for a moment the philosophical implications of this question, I am a PhD student at [Carranza Lab](http://molevol.cmima.csic.es/carranza/index.html){:target="_blank"}, one of the research groups within the [Animal Biodiversity and Evolution Program](https://www.ibe.upf-csic.es/animal-biodiversity-and-evolution){:target="_blank"} in the Insitute of Evolutionary Biology of Barcelona. Does that define me? For better or worse, I guess pretty much, at least these days. But I am also a music, book, film and nature lover. I think that is a fair summary of my interests. I am a part-time scientist (if that is ever possible), but a full-time learner.</div>
 
-<br/>
+
 
 
 More about my research and scientific interests
