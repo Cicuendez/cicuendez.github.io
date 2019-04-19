@@ -85,7 +85,7 @@ author:
   bio              : "Evolutionary biologist, PhD student"
   location         : "Barcelona"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "cicuendez93@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -93,7 +93,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/hector.tejerocicuendez"
+  facebook         : # "hector.tejerocicuendez"
   foursquare       :
   github           : "Cicuendez"
   google_plus      :
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
