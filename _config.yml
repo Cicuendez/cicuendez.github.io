@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Héctor Tejero Cicuéndez"
 title_separator          : "-"
 name                     : &name "Héctor"
-description              : &description "Predoctoral researcher at Institute of Evolutionary Biology, Barcelona"
+description              : &description "Postdoc researcher at Museum für Naturkunde Berlin"
 url                      : https://cicuendez.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cicuendez.github.io/"
@@ -82,18 +82,18 @@ analytics:
 author:
   name             : "Héctor"
   avatar           : "profilehtc.png"
-  bio              : "Evolutionary biologist, PhD student"
-  location         : "Barcelona"
+  bio              : "Evolutionary biologist, postdoc"
+  location         : "Berlin"
   employer         :
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "cicuendez93@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=BOHq4CgAAAAJ&hl=es&oi=ao"
+  email            : "hetejero@ucm.es"
+  researchgate     : "https://www.researchgate.net/profile/Hector-Tejero-Cicuendez"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : # "hector.tejerocicuendez"
+  facebook         : 
   foursquare       :
   github           : # "Cicuendez"
   google_plus      :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@zikkeh"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
