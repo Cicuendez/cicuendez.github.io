@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 If we forget for a moment the philosophical implications of this question, I am a postdoc researcher at [Amniota Lab](https://amniota.org/){:target="_blank"}, one of the research groups within the [Museum für Naturkunde](https://www.museumfuernaturkunde.berlin/en){:target="_blank"} in Berlin. Does that define me? For better or worse, I guess pretty much, at least these days. But I am also a music, book, film and nature lover. I think that is a fair summary of my interests. I am a part-time scientist (if that is ever possible), but a full-time learner.
 
 
@@ -17,6 +18,8 @@ If we forget for a moment the philosophical implications of this question, I am 
 More about my research and scientific interests
 ======
 In my PhD project I explored the effect of the arid areas in the origin and maintenance of reptile diversity in Arabia and North Africa. Expanding from there, I study biogeographic patterns and diversification dynamics in global desert systems applying Phylogenetic Comparative Methods to get a large-scale perspective. In my Alexander von Humboldt postdoc project at the MfN, I am studying the effect of aridity in the morphological evolution of lizards. Broadly speaking, I am interested in the evolution of taxa in space and time, and more specifically in how environmental conditions (geographic and climatic history) have affected diversification, as well as the interrelationships between ecological preferences, trait evolution and lineage diversification.
+
+
 
 
 
